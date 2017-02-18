@@ -1,21 +1,26 @@
-vConsole-resources
+vConsole-umu-lang-swtich
 ==============================
-[![npm version](https://badge.fury.io/js/vconsole-resources.svg)](https://badge.fury.io/js/vconsole-resources) 
 
-A vConsole plugin which can show Cookies and Local Storage in front-end.
+
+A vConsole plugin which can swtich umu wap system in front-end.
 
 
 ## Features
 
-- Show/delete cookies
-- Show/delete Local Storage items
+- 切换语言
 
 
 ## Usage
 
-Simply import `vconsole-resources.min.js` after `vconsole.min.js`:
+Simply import `vconsole-umu-lang-swtich.min.js` after `vconsole.min.js`:
 
 ```html
 <script src="path/to/vconsole.min.js"></script>
-<script src="path/to/vconsole-resources.min.js"></script>
+<script src="path/to/vconsole-umu-lang-swtich.min.js"></script>
 ```
+
+## 代码使用
+- git clone 代码
+- npm 
+- create .babelrc
+- webpack  [https://webpack.github.io/docs/usage.html](https://webpack.github.io/docs/usage.html) 
