@@ -2,7 +2,7 @@
   "name": "vconsole-umu-lang-switch",
   "version": "1.0.0",
   "description": "A plugin for vConsole.",
-  "homepage": "",
+  "homepage": "https://github.com/daoyuly/vConsole-umu-lang-swtich",
   "main": "dist/vconsole-umu-lang-switch.min.js",
   "scripts": {
     "dist": "webpack",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WechatFE/vConsole-resources.git"
+    "url": "git+https://github.com/daoyuly/vConsole-umu-lang-swtich.git"
   },
   "dependencies": {},
   "devDependencies": {
